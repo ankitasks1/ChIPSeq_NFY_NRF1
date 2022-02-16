@@ -1,0 +1,5 @@
+gsamples	gcondition	greplicate	gallele	grun
+1	Input1	Input_B6	Input_B6_1	R1
+2	Input1	Input_JF1	Input_JF1_1	R1
+3	Input2	Input_B6	Input_B6_2	R1
+4	Input2	Input_JF1	Input_JF1_2	R1

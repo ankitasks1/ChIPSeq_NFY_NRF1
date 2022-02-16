@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+JB1	Input	1	/media/ankitv/Archivio1/2019/chip-seq/JB1_NFY_NRF1/newway/bulk/Input/Input_rep1_R1_uniq.rmdup.bam	./JB1_NFY.bed
+JB1	Input	2	/media/ankitv/Archivio1/2019/chip-seq/JB1_NFY_NRF1/newway/bulk/Input/Input_rep2_R1_uniq.rmdup.bam	./JB1_NFY.bed
